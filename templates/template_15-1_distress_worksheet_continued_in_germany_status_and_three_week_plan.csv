@@ -1,0 +1,11 @@
+Line,$M
+Status date,
+Aktiva I (available funds at the status date),
+Passiva I (due and demanded at the status date),
+Aktiva II (receipts in the three weeks),
+Passiva II (due and demanded in the three weeks),
+Gap at the end of the window,
+Gap ÷ (Passiva I + Passiva II),
+"Date illiquidity began, if any",
+Three-week filing limit (§15a),
+Payments since then and their §15b basis,
